@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/likes/page": "app/(auth)/likes/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/requests/getRequest/route": "app/api/requests/getRequest/route.js",
+  "/api/requests/getAllUsers/route": "app/api/requests/getAllUsers/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
